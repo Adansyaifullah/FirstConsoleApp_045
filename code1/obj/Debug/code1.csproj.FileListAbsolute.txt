@@ -1,0 +1,7 @@
+C:\Users\muham\Documents\wcf\code1\code1\bin\code1.dll.config
+C:\Users\muham\Documents\wcf\code1\code1\bin\code1.dll
+C:\Users\muham\Documents\wcf\code1\code1\bin\code1.pdb
+C:\Users\muham\Documents\wcf\code1\code1\obj\Debug\code1.csproj.AssemblyReference.cache
+C:\Users\muham\Documents\wcf\code1\code1\obj\Debug\code1.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\wcf\code1\code1\obj\Debug\code1.dll
+C:\Users\muham\Documents\wcf\code1\code1\obj\Debug\code1.pdb
